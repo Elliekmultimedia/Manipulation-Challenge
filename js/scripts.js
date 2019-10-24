@@ -1,6 +1,6 @@
 // 1: Set the text of the <h1> element
 const title = document.querySelector("h1")title.textContent = "bucket list";
-
+ 
 // 2: Set the color of the <h1> to a different color
 document.getElementsByTagName('h1')[0].style.color ='red';
 
